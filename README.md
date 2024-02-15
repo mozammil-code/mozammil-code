@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Teckube](aikube.io)
 
-- 🌱 I’m currently learning **I’m currently learning about microservices architecture and containerization with Docker and Kubernetes. Additionally, I'm exploring advanced concepts in Angular, including Ionic for hybrid mobile app development, and diving deeper into server-side development with Node.js. Always eager to expand my skill set and stay updated with the latest trends in technology!**
+- 🌱 I’m currently learning **IONIC Mobile App Development**
 
 - 👨‍💻 All of my projects are available at [https://stackedfolio.tech](https://stackedfolio.tech)
 
@@ -18,11 +18,12 @@
 
 - 📫 How to reach me **mozammilahmad667@gmail.com**
 
-- ⚡ Fun fact **The creator of the Angular framework, Misko Hevery, named it 'Angular' because HTML attributes like 'ng' reminded him of angle brackets used in tag syntax. So, every time you write 'ng' in your Angular code, you're paying homage to its angular inspiration!**
+- ⚡ Fun fact **Iam funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mozammil-ahmad-375174217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mozammil-ahmad-375174217" height="30" width="40" /></a>
+<a href="https://twitter.com/mozammilahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mozammilahmad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
