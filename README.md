@@ -1,4 +1,4 @@
-[![MasterHead](https://www.silvertouch.com/wp-content/themes/silvertouch/assets/images-new/mean-stack-banner.jpg)]
+[![MasterHead](https://www.silvertouch.com/wp-content/themes/silvertouch/assets/images-new/mean-stack-banner.jpg)
 <h1 align="center">Hi 👋, I'm Mozammil Ahmad</h1>
 <h3 align="center">MEAN Stack Developer | Passionate about crafting web applications with MongoDB, Express.js, Angular, and Node.js</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
@@ -22,8 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mozammil-ahmad-375174217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mozammil-ahmad-375174217" height="30" width="40" /></a>
 <a href="https://twitter.com/mozammilahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mozammilahmad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mozammil-ahmad-375174217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mozammil-ahmad-375174217" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
