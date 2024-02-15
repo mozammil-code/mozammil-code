@@ -1,4 +1,4 @@
-![MasterHead]([https://www.silvertouch.com/wp-content/themes/silvertouch/assets/images-new/mean-stack-banner.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b1/Meanstack-624x250.jpg))
+[![MasterHead]([https://www.silvertouch.com/wp-content/themes/silvertouch/assets/images-new/mean-stack-banner.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b1/Meanstack-624x250.jpg))]
 <h1 align="center">Hi 👋, I'm Mozammil Ahmad</h1>
 <h3 align="center">MEAN Stack Developer | Passionate about crafting web applications with MongoDB, Express.js, Angular, and Node.js</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
